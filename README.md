@@ -52,4 +52,3 @@ Because the dataset is highly imbalanced, standard accuracy is not a reliable me
 * Recall: To measure how many actual frauds were successfully identified (minimizing false negatives).
 * F1-Score: The harmonic mean of precision and recall.
 * Confusion Matrix: To visually interpret the True Positives, True Negatives, False Positives, and False Negatives.
-Author Adharsh Kumar
