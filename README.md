@@ -35,18 +35,6 @@ INSTALLATION & SETUP
 3. Install dependencies:
    pip install -r requirements.txt
 
-PROJECT STRUCTURE
------------------
-data/                     - Directory to store the dataset (e.g., creditcard.csv)
-notebooks/                - Jupyter notebooks for Exploratory Data Analysis (EDA)
-src/
-  data_preprocessing.py   - Script for data cleaning and handling class imbalance
-  train_model.py          - Script to train the Logistic Regression model
-  predict.py              - Script to run inferences on new transactions
-models/                   - Directory to save the trained model (e.g., model.pkl)
-requirements.txt          - Python package dependencies
-readme.txt                - Project documentation
-
 USAGE
 -----
 1. Data Preprocessing & Training:
